@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccentureEshop-2023", "AccentureEshop-2023\AccentureEshop-2023.csproj", "{4DAD3708-5A8F-49D7-A2AE-F1C4658DCC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAD3708-5A8F-49D7-A2AE-F1C4658DCC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAD3708-5A8F-49D7-A2AE-F1C4658DCC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAD3708-5A8F-49D7-A2AE-F1C4658DCC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAD3708-5A8F-49D7-A2AE-F1C4658DCC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF14094-B991-46AF-97AF-CE4F7F3F73BF}
+	EndGlobalSection
+EndGlobal
